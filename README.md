@@ -5,11 +5,16 @@
 ## 🚀 System Overview
 Bubu Lifestyle is a production-grade, full-stack retail solution for a premium footwear brand. I architected and developed the entire ecosystem, including a high-conversion client-side e-commerce platform, a comprehensive Enterprise Admin Panel, and a multi-outlet POS system with real-time inventory synchronization and a custom loyalty engine.
 
-## 🛠️ Tech Stack & Infrastructure
-* **Frontend:** React (Vite), Tailwind CSS, Shadcn UI.
-* **Backend & Auth:** Supabase (PostgreSQL) with **Custom Auth Hooks** for passwordless OTP.
-* **Integrations:** BulkSMSBD (OTP/Alerts), Steadfast API (Logistics), BDCourier (Fraud Check), SSLCommerz (Payments).
-* **Infrastructure:** Cloudinary (Media), Vercel (Hosting/Edge Runtime).
+### 🛠️ Tech Stack & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white" alt="Cloudinary" />
+</p>
 
 ---
 
